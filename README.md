@@ -1,5 +1,5 @@
 ## Light Switch
 
-By clicking on the btn the page will change from light mode to dark mode and back (toggle).
+By clicking the button, the page will toggle between light mode and dark mode. 
 
-The Document title will also be changed from Good Morning to Good Night.
+The document title will also change from 'Good Morning' to 'Good Night..
